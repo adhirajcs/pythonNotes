@@ -1,7 +1,6 @@
 # Python - MCA
-## About
 
-This repository consists of Python Notebook files (.ipynb).
+This repository i.e. python_MCA consists of Python Notebook files (.ipynb).
 
 The Python syllabus of HITK MCA 1st Semester has been covered in these ipynb files.
 
